@@ -11,8 +11,8 @@ const Home = (props) => {
   return (
     <div className="home-container1">
       <Helmet>
-        <title>Best Funny Eland</title>
-        <meta property="og:title" content="Best Funny Eland" />
+        <title>TangibleElectronics</title>
+        <meta property="og:title" content="TangibleElectronics" />
         <link
           rel="canonical"
           href="https://best-funny-eland-kli7f5.teleporthq.app/"
