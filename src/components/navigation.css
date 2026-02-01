@@ -1,0 +1,17 @@
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-chevron-elm {
+  width: 16px;
+  height: 16px;
+  transition: transform 0.2s ease;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
